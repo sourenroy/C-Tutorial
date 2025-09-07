@@ -8,9 +8,10 @@
 int main(){
 
     int x;
-      printf("Enter the Num : ");
+    printf("Enter the Num : ");
     scanf("%d", &x);
     printf("%d", x % 2 == 0 );
 
     return 0;
+
 }
