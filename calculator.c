@@ -18,12 +18,12 @@ int main(){
         printf("This is a simple Calculator\n");
         printf("---------------------------\n");
         printf("1 for Addition(+)\n"); 
-         printf("2 for Subtraction\n");
-          printf("3 for Multiplication\n");
-           printf("4 for Division\n");
-            printf("5 for Modulas\n");
-             printf("6 for Exit\n");
-              printf("Enter your choice(1-6): ");
+        printf("2 for Subtraction\n");
+        printf("3 for Multiplication\n");
+        printf("4 for Division\n");
+        printf("5 for Modulas\n");
+        printf("6 for Exit\n");
+        printf("Enter your choice(1-6): ");
         scanf("%d",&choice);
 
     
@@ -100,4 +100,5 @@ int Divide(int a, int b){
 
 int Modulo(int a, int b){
     return a%b;
+
 }
