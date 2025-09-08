@@ -1,7 +1,6 @@
 //find the Even / Odd num
     //even --> 1 //odd -->0
 
-
 #include<stdio.h>
 #include<math.h>
 
@@ -15,3 +14,4 @@ int main(){
     return 0;
 
 }
+
